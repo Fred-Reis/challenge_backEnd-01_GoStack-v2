@@ -11,10 +11,13 @@ app.use(cors());
 const repositories = [];
 
 app.get("/repositories", (request, response) => {
+
   return response.status(200).json(repositories)
+  
 });
 
 app.post("/repositories", (request, response) => {
+
   const {title, url, techs} = request.body;
 
   repositorie = {
@@ -32,6 +35,7 @@ app.post("/repositories", (request, response) => {
 });
 
 app.put("/repositories/:id", (request, response) => {
+
   const {title, url, techs} = request.body;
   const {id} = request.params;
 
