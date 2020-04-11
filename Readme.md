@@ -40,6 +40,28 @@
 
 <hr/>
 
+<h4 align="center">Links:</h4>
+
+<p align="center">
+
+  <a href="#about-challenge">
+    <img src="https://img.shields.io/badge/About_Challenge-a5a5a5"/>
+  </a>&nbsp;&nbsp;
+  <a href="#functionalities">
+    <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
+  </a>&nbsp;&nbsp;
+  <a href="#techs">
+    <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
+  </a>&nbsp;&nbsp;
+  <a href="#tools">
+    <img src="https://img.shields.io/badge/Tools-a5a5a5"/>
+  </a>&nbsp;&nbsp;
+  <a href="#run-this-project">
+    <img src="https://img.shields.io/badge/Run_this_project-a5a5a5"/>
+  </a>&nbsp;&nbsp;
+
+</p>
+
 ## 💡 About Challenge:
 
 This challenge was to practice knowledge of the fundamentals of NodeJS.
@@ -75,7 +97,7 @@ To run on the first time,
 into your folder:
 
 ```bash
-$ git clone https://github.com/Fred-Reis/back-end-with-Node_GoStack-v2.git
+$ git clone https://github.com/Fred-Reis/challenge_backEnd-01_GoStack-v2
 ```
 
 Into repo folder, to intall ```Node_Modules``` run:
