@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="center">
-  #1 Challenge with NodeJS 
+   Challenge with NodeJS 
 </h1>
 
 <h3 align="center">
