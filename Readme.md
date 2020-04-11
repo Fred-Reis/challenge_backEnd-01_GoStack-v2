@@ -50,7 +50,7 @@
   <a href="#-functionalities">
     <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-techs">
+  <a href="-techs">
     <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#-tools">
@@ -59,6 +59,9 @@
   <a href="#-run-this-project">
     <img src="https://img.shields.io/badge/Run_this_project-a5a5a5"/>
   </a>&nbsp;&nbsp;
+  <a href="#-author">
+    <img src="https://img.shields.io/badge/Author-a5a5a5"/>
+  </a>
 
 </p>
 
@@ -78,7 +81,7 @@ In this project, the routes were implemented using HTTP methods.
 * `POST /repositories/:id/like` => Increase one more "like" in the repository with the same ID received by __request params__,
 whenever this route is called.
 
-## :gear: Techs:
+## ⚙️ Techs:
 
 * __NodeJS__;
 * Express;
@@ -130,7 +133,7 @@ pod install
 ---
 
 <h3 align="center">
-Autor: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a>
+Author: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a>
 </h3>
 
 <p align="center">
