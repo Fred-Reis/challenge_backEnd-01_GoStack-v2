@@ -59,7 +59,7 @@
   <a href="#-run-this-project">
     <img src="https://img.shields.io/badge/Run_this_project-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#-author">
+  <a href="#author">
     <img src="https://img.shields.io/badge/Author-a5a5a5"/>
   </a>
 
