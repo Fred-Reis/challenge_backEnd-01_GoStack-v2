@@ -50,7 +50,7 @@
   <a href="#functionalities">
     <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#⚙️-techs">
+  <a href="#gear-techs">
     <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#tools">
@@ -78,7 +78,7 @@ In this project, the routes were implemented using HTTP methods.
 * `POST /repositories/:id/like` => Increase one more "like" in the repository with the same ID received by __request params__,
 whenever this route is called.
 
-## ⚙️ Techs:
+## :gear: Techs:
 
 * __NodeJS__;
 * Express;
