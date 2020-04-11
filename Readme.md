@@ -50,7 +50,7 @@
   <a href="#functionalities">
     <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#techs">
+  <a href="#⚙️-techs">
     <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#tools">
