@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-   Challenge#2: NodeJS's Concepts
+   Challenge 01: NodeJS's Concepts
 </h2>
 
 <h3 align="center">
@@ -30,4 +30,11 @@
     <img src="https://api.codacy.com/project/badge/Grade/4f385f0698d0431db92fe2514089500c"/></a>
 
 </p>
+
+<blockquote align="center">
+  This project be a part of bootcamp: 
+    <a href="https://rocketseat.com.br/gostack">
+      GoStack by RocketSeat
+    </a> 
+</blockquote>
 
