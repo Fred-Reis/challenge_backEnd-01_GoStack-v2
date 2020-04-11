@@ -89,8 +89,6 @@ app.post("/repositories/:id/like", (request, response) => {
     likes: repo.likes + 1
   }
 
-  
-
   repositories[repoIndex] = newRepo
 
   return response.status(200).json(newRepo)
