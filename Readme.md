@@ -44,19 +44,19 @@
 
 <p align="center">
 
-  <a href="#about-challenge">
+  <a href="#-about-challenge">
     <img src="https://img.shields.io/badge/About_Challenge-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#functionalities">
+  <a href="#-functionalities">
     <img src="https://img.shields.io/badge/Functionalities-a5a5a5"/>
   </a>&nbsp;&nbsp;
   <a href="#%EF%B8%8F-techs">
     <img src="https://img.shields.io/badge/Techs-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#tools">
+  <a href="#-tools">
     <img src="https://img.shields.io/badge/Tools-a5a5a5"/>
   </a>&nbsp;&nbsp;
-  <a href="#run-this-project">
+  <a href="#-run-this-project">
     <img src="https://img.shields.io/badge/Run_this_project-a5a5a5"/>
   </a>&nbsp;&nbsp;
 
