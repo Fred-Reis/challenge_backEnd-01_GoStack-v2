@@ -38,3 +38,86 @@
     </a> 
 </blockquote>
 
+<hr/>
+
+## 💡 About Challenge:
+
+This challenge was to practice knowledge of the fundamentals of NodeJS.
+
+An application was developed to store repositories in a portfolio, which it allowed creating, listing, updating and removing the repositories, and also allowing the repositories to receive "likes".
+
+## 🔥 Functionalities:
+
+In this project, the routes were implemented using HTTP methods.
+* `POST /repositories` => Create a new repositorie.
+* `GET /repositories` => List all repositories.
+* `PUT /repositories/:id` => Updates some parameters of the repository with the same ID received by __request params__.
+* `DELETE /repositories/:id` => Delete the repositorie with the same ID received by __request params__.
+* `POST /repositories/:id/like` => Increase one more "like" in the repository with the same ID received by __request params__,
+whenever this route is called.
+
+## ⚙️ Techs:
+
+* __NodeJS__;
+* Express;
+* Nodemon;
+* Yarn;
+
+## ⛏ Tools:
+
+* [Insomnia](https://insomnia.rest/download/);
+* [Notion](https://www.notion.so/?utm_source=google&utm_campaign=brand_alpha&utm_content=row&utm_term=notion&gclid=CjwKCAjw1cX0BRBmEiwAy9tKHs5ggnFG4dmfW38kOuGDTQS1-YjRGg01PuIriv8ftUuAUzeoU7QFFxoCAkIQAvD_BwE);
+
+
+## 🏁 Run this project:
+
+To run on the first time,  
+into your folder:
+
+```bash
+$ git clone https://github.com/Fred-Reis/back-end-with-Node_GoStack-v2.git
+```
+
+Into repo folder, to intall ```Node_Modules``` run:
+
+```bash
+yarn
+```
+
+To link with IOS:
+
+```bash
+pod install
+```
+
+😃 Now run the project in your device or favorite emulator and...
+**BE HAPPY**.
+
+<h4>
+  😍 Thanks for you interest! 
+</h4>
+
+<br/>
+
+<h4 align="center">
+  "Stay hungry stay foolish!"
+</h4>
+
+<br/>
+
+---
+
+<h3 align="center">
+Autor: <a alt="Fred-Reis" href="https://github.com/Fred-Reis">Frederico Reis</a>
+</h3>
+
+<p align="center">
+
+  <a alt="Frederico Reis" href="https://www.linkedin.com/in/frederico-reis-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Frederico_Reis-0077B5?logo=linkedin"/></a>
+  <a alt="Frederico Reis" href="https://github.com/Fred-Reis ">
+  <img src="https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github"/></a>
+
+</p>
+
+
