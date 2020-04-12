@@ -6,7 +6,7 @@
 </div>
 
 <h2 align="center">
-   Challenge 01: NodeJS's Concepts
+   Challenge 01: NodeJS Concepts
 </h2>
 
 <h3 align="center">
@@ -87,6 +87,7 @@ whenever this route is called.
 * Express;
 * Nodemon;
 * Yarn;
+* Jest;
 
 ## ⛏ Tools:
 
