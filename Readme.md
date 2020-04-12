@@ -29,6 +29,9 @@
   <a href="https://www.codacy.com/manual/Fred-Reis/challenge_backEnd-01_GoStack-v2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Fred-Reis/challenge_backEnd-01_GoStack-v2&amp;utm_campaign=Badge_Grade">
     <img src="https://api.codacy.com/project/badge/Grade/4f385f0698d0431db92fe2514089500c"/></a>
 
+  <a href="https://app.netlify.com/sites/affectionate-mahavira-913f7b/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/0abef9c1-d6d2-4af3-a5e1-b24332614634/deploy-status"/></a>
+
 </p>
 
 <blockquote align="center">
@@ -70,6 +73,8 @@
 This challenge was to practice knowledge of the fundamentals of NodeJS.
 
 An application was developed to store repositories in a portfolio, which it allowed creating, listing, updating and removing the repositories, and also allowing the repositories to receive "likes".
+
+
 
 ## 🔥 Functionalities:
 
