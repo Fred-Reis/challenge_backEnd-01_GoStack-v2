@@ -126,7 +126,7 @@ And to start the server:
 yarn dev
 ```
 
-> Recommend using insomnia to test routes
+> Recommend using [Insomnia](https://insomnia.rest/download/) to test routes
 
 😃 Now run the project in your device or favorite emulator and...
 **BE HAPPY**.
