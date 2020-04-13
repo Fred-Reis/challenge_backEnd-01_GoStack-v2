@@ -120,6 +120,13 @@ To link with IOS:
 ```bash
 pod install
 ```
+And to start the server: 
+
+```bash
+yarn dev
+```
+
+> Recommend using insomnia to test routes
 
 😃 Now run the project in your device or favorite emulator and...
 **BE HAPPY**.
